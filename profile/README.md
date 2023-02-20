@@ -1,12 +1,7 @@
-## Hi there 👋
 
-<!--
+![Logo](https://bafybeidtebtsb2cbe7jkmoly6vho6bqyw3t2ycrkzphnlwttahqyscqrxy.ipfs.w3s.link/Group%20108.png)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### The 21 | 12 Foundation 💫
+
+A (*for-profit*) Open Source (OSS) Research & Development Foundation in the Distributed Networks space. Specifically focused on highlighting creative uses of complex technological concepts. 
